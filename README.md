@@ -1,1 +1,1 @@
-# Semantic Segmentation using Transformer
+# Semantic Segmentation using Vision Transformer
